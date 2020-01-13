@@ -1,6 +1,6 @@
 
 # Neue Home -Shop For Home
-an e-commerce site
+An e-commerce site
 
 ## Libraries
  1. React-context for state management.
