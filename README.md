@@ -1,9 +1,9 @@
 
-# Neue Home -Shop For Home
-An e-commerce site
+# Neue Home App
+An e-commerce site for home-decor.
 
-## Libraries
+## Challenges
  1. React-context for state management.
- 2. React-route for layering.
- 3. Styled-component for in-component css styling.
+ 2. React-router for layering.
+ 3. Styled-component for in-component CSS styling.
  
